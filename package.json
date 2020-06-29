@@ -1,0 +1,15 @@
+{
+    "name": "shell-learn",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gulp": "^4.0.2"
+    }
+}
